@@ -1,4 +1,4 @@
-### Evaluating LLM-based Code Intelligence on Dependency Inference in Repository Scope
+### DI-BENCH: Benchmarking Large Language Models on Dependency Inference with Testable Repositories at Scale
 
 Ensure that Docker engine is installed and running on your machine.
 
