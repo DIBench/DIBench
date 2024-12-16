@@ -18,6 +18,7 @@ regular.jsonl and large.jsonl are dataset file for regular sets and large sets
 
 ## Unzip Repository Instances
 ```
+# data will be available after review
 unzip repo-large.zip
 unzip repo-regular.zip
 ```
